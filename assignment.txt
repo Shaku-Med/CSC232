@@ -1,0 +1,63 @@
+Q1: The following is an entry inside the etc/passwd file.  what is the user ID (numeric) of the user bob?
+
+Ans => uid=1001(bob) gid=1001(bob) groups=1001(bob)
+
+Q2. What is the root user's user ID? why does the root have special priviledge than normal users? Is because it user name is root?
+
+Ans => No! It's not because of it's user name. It's because The root has Controls to change read and write, open, close etc... files on the device and has access to everything on the device.
+The id of the root is => uid=1000(colord) gid=1000(colord) groups=1000(colord),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev)
+
+Q3. Alice belongs to the abc group. What permission does Alice have on the following file. 
+
+Ans => Alice can Only Read Files. Since the logic says "-r";
+
+Q4. What will be the file xyz's permission after running the followin command.
+
+Ans => x = 5 = ("read, Execute") y = 4 = ("read") z = 3 = ("write, execute")
+
+Q5. if the umask value is 0, 4, 2, 7, when we create a non executable file. what will be its permission.
+
+Ans => 0 = ("No permission") 4 = ("read") 2 = ("write") = 7 = ("read, write, execute");
+
+Q6. Account bob is a normal user account. The root user wants to grant bob priviledge to run commands using the superuser priviledge, but without giving bob the password of the root account. How can the root user achieve this?
+
+Ans => First, Type "sudo su" to enter into the root. then type "visudo" to open all the priviledges you can offer, Us the down arrow to go down to the "user priviledge specialification.." with "root ALL=(ALL: ALL) ALL"... move your cursor little bit down to add the user you want to grant priviledge to.. eg: "bob ALL=(ALL: ALL) ALL".. and then hold the control key and press the X key to save and exit. To test it out. Try to Run These commands. => cd Downloads => ls => mkdir Testfolder => sudo apt node => npm create-react-app MyFirstWebsite. cd MyFirstWebsite. npm start... If all these commands ran successfully while in the bob, You granted priviledge to bob successfully. :)
+
+
+Q7. Same ^
+
+Q8. What is POSIX capabilities?
+
+Ans => POSIX capabilities is a concept which divides root priviledges into a set of priviledges. These priviledges/valus than can be independently assigned to the process, by this way the process only contain the required priviledge and some level of security is achieved.
+
+Q10. we run the following sequences of commands. What are the result of CD and @
+
+
+
+Ans => { 
+    CD result => { 
+        root:$6$zPkqHfoPc0fbFWyb$KYO6ob872HMnn78gOEs.S3on4I1KWFy6xPCW0yOkI7rCxew2C933AlPlREfJYLAylAK0I2p7B6oRaBPtXP/Nm0:19234:0:99999:7:::
+daemon:*:18858:0:99999:7:::
+bin:*:18858:0:99999:7:::
+sys:*:18858:0:99999:7:::
+sync:*:18858:0:99999:7:::
+games:*:18858:0:99999:7:::
+man:*:18858:0:99999:7:::
+lp:*:18858:0:99999:7:::
+mail:*:18858:0:99999:7:::
+news:*:18858:0:99999:7:::
+uucp:*:18858:0:99999:7:::
+///This is not all. It's too long...
+    }
+}
+
+11.The /etc/passwd file is called password file, but in reality, it does not contain account passwords. Please explain why?...
+
+Ans => First of all, I'd like to Explane /etc/passwd +
+The passwd file in linux is a configuration file that contains user daetails. An important characteristic of the passwd file.
+Why It doesn't contain password... Basically, /etc/passwd is a default database of users: the name, id, login shell, home, directory. 
+
+
+12. what is the purpose of the salt in the shadow file?
+
+Ans => Salt helps provide identity... Eg. If two user have the same passwords. The salt helps create a unique hash for both users..

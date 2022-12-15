@@ -1,0 +1,201 @@
+# How google search engine works, and how to use them...
+
+1. # The Search operator...
+
+Ans => site:gmail.com
+When I did this, I got the actual site at the top...
+https://mail.google.com > mail 
+
+2. # The exact match operator...
+
+Ans => "gmail"
+When I did this i got many of Gmail... Which means The fetched from Words Exactly like gmail...
+
+3. # The negative operator...
+
+Just like Sql, "OR"... You can use or to search between words. Like Mango OR orange...
+
+Ans => yoda OR chewbacca.. Result was => Yoda on the top and chewbacca was at the bottom..
+
+4. # The pip Operator... ||.. 
+Ans => This is similar to the javascript OR operator... But in google you only use one |...
+
+5. # The parenthesis operator...
+Ans => (gmail.com) result => Gmail.Google.
+
+6. # The AND operator 
+Ans => This operator is quite similar to Sql, Opeartors. You can even use "&&" to get data from a specific part. result => I got apple.com on the top and gmail.com on the bottom
+
+7. # The wild Card operator *
+
+Ans => Mohamed * This means fetch all datas that contains Mohamed.
+
+8. # Currency operator $
+
+Ans => Finding Prices Eg.. Hacking book $200.. This only brings prices of $200 only
+
+9. # The operator in subject 
+Ans => insubject: "Mangoes"
+
+10. # the operator allintitle 
+
+Ans => allintitle: skyblue helper view . this shows all titles with this same titles you've written
+
+11. # inurl: apple
+Ans => This however search with url like apple. eg result, apple.com.
+
+12. # allinurl: 
+Ans => This get all url from your text like array form. eg. allinurl: apple google youtube.
+
+13. # intext: star wars.
+Ans => I was asked DID YOU MEAN intext: Stars after clicking on it. I was redirected to the image center.
+
+14. # allintext: star wars good doctor flash.
+Ans => I was asked DID YOU MEAN intext: Stars after clicking on it. I was redirected to the image center.
+
+15. # Th operator filetype
+Ans => image.png 
+
+16. # operator related
+Ans => result = > https://www.hongkit.com etc...
+
+17. # The operator define.
+
+Ans => using google dictionary. eg define food result ( 
+
+food
+/fo͞od/
+Learn to pronounce
+noun
+any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.
+"we need food and water"
+
+)
+
+18. # author operator => { 
+      Ans => { 
+            Author lucifer.
+
+Lucifer is an American urban fantasy television series developed by Tom Kapinos that premiered on January 25, 2016, and concluded on September 10, 2021. It is based on the DC Comics character created by Neil Gaiman, Sam Kieth, and Mike Dringenberg.
+...
+Lucifer (TV series)
+Lucifer
+Developed by	Tom Kapinos
+
+      }
+}
+
+19. # cache:apple.com
+
+Ans => Shows an unsecured http://webcache.googleusercontent.com/search?q=cache%3Aapple.com&oq=cache%3Aapple.com&aqs=chrome..69i57j69i58.693j0j9&sourceid=chrome&ie=UTF-8 url... With Full Version. View sorce and other informations.
+
+20. # operator Weather. 
+
+Weather:stockholm
+
+result ( 
+    Fog
+44°F°C
+Precipitation: 4%
+Humidity: 100%
+Wind: 2 mph
+Stockholm, Sweden
+Sunday 3:00 AM
+Fog
+TemperaturePrecipitationWind
+44
+4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM1 AM4 AM7 AM10 AM1 PM4 PM7 PM10 PM
+Sun
+Partly cloudy
+60°44°
+Mon
+Showers
+53°44°
+Tue
+Mostly cloudy
+54°41°
+Wed
+Partly cloudy
+56°39°
+Thu
+Partly cloudy
+59°45°
+Fri
+Mostly cloudy
+58°47°
+Sat
+Showers
+57°44°
+Sun
+Mostly cloudy
+58°46°
+  
+)
+
+21. # operator stock 
+Ans => chat.. result ( 
+
+      150.70 USD
+−1.67 (1.10%)today
+Sep 16, 4:00 PM EDT • Disclaimer
+149.31 USD  ‎10:50 AM
+Open	
+151.21
+High	
+151.35
+Low	
+148.37
+Mkt cap	
+2.42T
+P/E ratio	
+24.90
+Div yield	
+0.61%
+CDP score	
+A-
+52-wk high	
+182.94
+52-wk low	
+129.04
+
+)
+
+22. # map
+Ans => map:africa =>  https://www.google.com/maps/vt/data=4-p0pur7X_1RYXwJETGsYcHOMyXM8AmQXR55Kmx45cMZv_guBuh4iTTpMKgHpoL5i9t9Ke5it0O8kTR-IK7t8qDANRvTWY5STIdyGO0IFjEKfe3csLeyj3tf1CsQfPrqILZl-iIEfwA6a8AivuUXVfd_nmQ
+
+23. # movie 
+
+Ans => movie:lucifer
+
+23. # source 
+Ans => result ( 
+      
+Apple - The Vergehttps://www.theverge.com › apple
+Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple is best known for making some of the world's most ubiquitous consumer devices, ...
+
+)
+
+24. # autocomplete 
+ANs => result ( 
+      About 330,000 results (0.54 seconds) 
+
+autocomplete — MongoDB Atlashttps://www.mongodb.com › docs › atlas › atlas-search
+The autocomplete operator performs a search for a word or phrase that contains a sequence of characters from an incomplete input string.
+
+Questions about the text operator for Atlas search - MongoDBhttps://www.mongodb.com › ... › Atlas Search
+
+)
+
+25. # the conversion operator in...
+
+$200 in LEONES. result { 
+      200 United States Dollar equals
+2,923,000.00 Sierra Leonean Leone
+}
+
+
+
+
+
+
+

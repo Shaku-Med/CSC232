@@ -1,0 +1,114 @@
+# Manipulating on the url http://cisco.num.edu.mn/CCNA_R&S3/course/files/3.3.2.7%20Packet%20Tracer%20-%20Configuring%20PAP%20and%20CHAP%20Authentication%20Instructions.pdf
+
+To Get all the files stored in thies incured domain, HTTP server, result { 
+      Index of /CCNA_R&S3/course/files
+[ICO]	Name	Last modified	Size	Description
+[DIR]	Parent Directory	 	-	 
+[   ]	1.0.1.2 Design Hierarchy Instructions.pdf	07-Feb-2015 00:52	96K	 
+[   ]	1.4.1.1 Borderless Innovations - Everywhere Instructions.pdf	07-Feb-2015 00:52	150K	 
+[   ]	1.4.1.2 Packet Tracer - Skills Integration Challenge OSPF.pka	07-Feb-2015 00:52	257K	 
+[   ]	1.4.1.2 Packet Tracer - Skills Integration Challenge OSPF Instructions.pdf	07-Feb-2015 00:52	154K	 
+[   ]	1.4.1.3 Packet Tracer - Skills Integration Challenge EIGRP.pka	07-Feb-2015 00:52	339K	 
+[   ]	1.4.1.3 Packet Tracer - Skills Integration Challenge EIGRP Instructions.pdf	07-Feb-2015 00:52	207K	 
+[   ]	2.0.1.2 Branching Out Instructions.pdf	07-Feb-2015 00:52	118K	 
+[   ]	2.2.4.3 Lab - Researching WAN Technologies.pdf	07-Feb-2015 00:52	626K	 
+[   ]	2.3.1.1 WAN Device Modules Instructions.pdf	07-Feb-2015 00:52	231K	 
+[   ]	3.0.1.2 PPP Persuasion Instructions.pdf	07-Feb-2015 00:52	39K	 
+[   ]	3.1.2.7 Packet Tracer - Troubleshooting Serial Interfaces.pka	07-Feb-2015 00:52	95K	 
+[   ]	3.1.2.7 Packet Tracer - Troubleshooting Serial Interfaces Instructions.pdf	07-Feb-2015 00:52	180K	 
+[   ]	3.3.2.7 Packet Tracer - Configuring PAP and CHAP Authentication.pka	07-Feb-2015 00:52	169K	 
+[   ]	3.3.2.7 Packet Tracer - Configuring PAP and CHAP Authentication Instructions.pdf	07-Feb-2015 00:52	182K	 
+[   ]	3.3.2.8 Lab - Configuring Basic PPP with Authentication.pdf	07-Feb-2015 00:52	424K	 
+[   ]	3.4.1.4 Packet Tracer - Troubleshooting PPP with Authentication.pka	07-Feb-2015 00:52	175K	 
+[   ]	3.4.1.4 Packet Tracer - Troubleshooting PPP with Authentication Instructions.pdf	07-Feb-2015 00:52	109K	 
+[   ]	3.4.1.5 Lab - Troubleshooting Basic PPP with Authentication.pdf	07-Feb-2015 00:52	359K	 
+[   ]	3.5.1.1 PPP Validation Instructions.pdf	07-Feb-2015 00:52	96K	 
+[   ]	3.5.1.2 Packet Tracer - Skills Integration Challenge.pka	07-Feb-2015 00:52	139K	 
+[   ]	3.5.1.2 Packet Tracer - Skills Integration Challenge Instructions.pdf	07-Feb-2015 00:52	173K	 
+[   ]	4.0.1.2 Emerging WAN Technologies Instructions.pdf	07-Feb-2015 00:52	43K	 
+[   ]	4.2.1.4 Packet Tracer - Configuring Static Frame Relay Maps.pka	07-Feb-2015 00:52	170K	 
+[   ]	4.2.1.4 Packet Tracer - Configuring Static Frame Relay Maps Instructions.pdf	07-Feb-2015 00:52	175K	 
+[   ]	4.2.2.6 Packet Tracer - Configuring Frame Relay Point-to-Point Subinterfaces.pka	07-Feb-2015 00:52	173K	 
+[   ]	4.2.2.6 Packet Tracer - Configuring Frame Relay Point-to-Point Subinterfaces Instructions.pdf	07-Feb-2015 00:52	186K	 
+[   ]	4.2.2.7 Lab - Configuring Frame Relay and Subinterfaces.pdf	07-Feb-2015 00:52	378K	 
+[   ]	4.3.1.6 Lab - Troubleshooting Basic Frame Relay.pdf	07-Feb-2015 00:52	266K	 
+[   ]	4.4.1.1 Frame-Relay Budget Proposal Instructions.pdf	07-Feb-2015 00:52	100K	 
+[   ]	4.4.1.2 Packet Tracer - Skills Integration Challenge.pka	07-Feb-2015 00:52	186K	 
+[   ]	4.4.1.2 Packet Tracer - Skills Integration Challenge Instructions.pdf	07-Feb-2015 00:52	147K	 
+[   ]	5.0.1.2 Conceptual NAT Instructions.pdf	07-Feb-2015 00:52	123K	 
+[   ]	5.1.2.6 Packet Tracer - Investigating NAT Operation.pka	07-Feb-2015 00:52	433K	 
+[   ]	5.1.2.6 Packet Tracer - Investigating NAT Operation Instructions.pdf	07-Feb-2015 00:52	316K	 
+[   ]	5.2.1.4 Packet Tracer - Configuring Static NAT.pka	07-Feb-2015 00:52	142K	 
+[   ]	5.2.1.4 Packet Tracer - Configuring Static NAT Instructions.pdf	07-Feb-2015 00:52	180K	 
+[   ]	5.2.2.5 Packet Tracer - Configuring Dynamic NAT.pka	07-Feb-2015 00:52	164K	 
+[   ]	5.2.2.5 Packet Tracer - Configuring Dynamic NAT Instructions.pdf	07-Feb-2015 00:52	181K	 
+[   ]	5.2.2.6 Lab - Configuring Dynamic and Static NAT.pdf	07-Feb-2015 00:52	299K	 
+[   ]	5.2.3.6 Packet Tracer - Implementing Static and Dynamic NAT.pka	07-Feb-2015 00:52	202K	 
+[   ]	5.2.3.6 Packet Tracer - Implementing Static and Dynamic NAT Instructions.pdf	07-Feb-2015 00:52	184K	 
+[   ]	5.2.3.7 Lab - Configuring Port Address Translation (PAT).pdf	07-Feb-2015 00:52	279K	 
+[   ]	5.2.4.4 Packet Tracer - Configuring Port Forwarding on a Linksys Router.pka	07-Feb-2015 00:52	124K	 
+[   ]	5.2.4.4 Packet Tracer - Configuring Port Forwarding on a Linksys Router Instructions.pdf	07-Feb-2015 00:52	177K	 
+[   ]	5.3.1.4 Packet Tracer - Verifying and Troubleshooting NAT Configurations.pka	07-Feb-2015 00:52	170K	 
+[   ]	5.3.1.4 Packet Tracer - Verifying and Troubleshooting NAT Configurations Instructions.pdf	07-Feb-2015 00:52	134K	 
+[   ]	5.3.1.5 Lab - Troubleshooting NAT Configurations.pdf	07-Feb-2015 00:52	207K	 
+[   ]	5.4.1.1 NAT Check Instructions.pdf	07-Feb-2015 00:52	131K	 
+[   ]	5.4.1.2 Packet Tracer - Skills Integration Challenge.pka	07-Feb-2015 00:52	245K	 
+[   ]	5.4.1.2 Packet Tracer - Skills Integration Challenge Instructions.pdf	07-Feb-2015 00:52	625K	 
+[   ]	6.0.1.2 Broadband Varieties Instructions.pdf	07-Feb-2015 00:52	115K	 
+[   ]	6.2.4.2 Lab - Researching Broadband Internet Access Technologies.pdf	07-Feb-2015 00:52	631K	 
+[   ]	6.3.2.3 Lab - Configuring a Router as a PPPoE Client for DSL Connectivity.pdf	07-Feb-2015 00:52	320K	 
+[   ]	6.4.1.1 Telework Proposal Instructions.pdf	07-Feb-2015 00:52	98K	 
+[   ]	7.0.1.2 VPNs at a Glance Instructions.pdf	07-Feb-2015 00:52	41K	 
+[   ]	7.1.2.4 Packet Tracer - Configuring VPNs (Optional).pka	07-Feb-2015 00:52	119K	 
+[   ]	7.1.2.4 Packet Tracer - Configuring VPNs (Optional) Instructions.pdf	07-Feb-2015 00:52	216K	 
+[   ]	7.2.2.3 Packet Tracer - Configuring GRE.pka	07-Feb-2015 00:52	107K	 
+[   ]	7.2.2.3 Packet Tracer - Configuring GRE Instructions.pdf	07-Feb-2015 00:52	202K	 
+[   ]	7.2.2.4 Packet Tracer - Troubleshooting GRE.pka	07-Feb-2015 00:52	106K	 
+[   ]	7.2.2.4 Packet Tracer - Troubleshooting GRE Instructions.pdf	07-Feb-2015 00:52	159K	 
+[   ]	7.2.2.5 Lab - Configuring a Point-to-Point GRE VPN Tunnel.pdf	07-Feb-2015 00:52	338K	 
+[   ]	7.3.2.8 Packet Tracer - Configuring GRE Over IPsec.pka	07-Feb-2015 00:52	175K	 
+[   ]	7.3.2.8 Packet Tracer - Configuring GRE Over IPsec Instructions.pdf	07-Feb-2015 00:52	297K	 
+[   ]	7.5.1.1 VPN Planning Design Instructions.pdf	07-Feb-2015 00:52	116K	 
+[   ]	7.5.1.2 Packet Tracer - Skills Integration Challenge.pka	07-Feb-2015 00:52	167K	 
+[   ]	7.5.1.2 Packet Tracer - Skills Integration Challenge Instructions.pdf	07-Feb-2015 00:52	132K	 
+[   ]	8.0.1.2 Network Maintenance Development Instructions.pdf	07-Feb-2015 00:52	95K	 
+[   ]	8.1.2.5 Packet Tracer - Configuring Syslog and NTP.pka	07-Feb-2015 00:52	185K	 
+[   ]	8.1.2.5 Packet Tracer - Configuring Syslog and NTP Instructions.pdf	07-Feb-2015 00:52	169K	 
+[   ]	8.1.2.6 Lab - Configuring Syslog and NTP.pdf	07-Feb-2015 00:52	335K	 
+[   ]	8.2.1.8 Lab - Researching Network Monitoring Software.pdf	07-Feb-2015 00:52	134K	 
+[   ]	8.2.2.4 Lab - Configuring SNMP.pdf	07-Feb-2015 00:52	788K	 
+[   ]	8.3.3.3 Lab - Collecting and Analyzing NetFlow Data.pdf	07-Feb-2015 00:52	322K	 
+[   ]	8.4.1.1 A Network Administrator's Toolbox for Monitoring Instructions.pdf	07-Feb-2015 00:52	90K	 
+[   ]	9.0.1.2 Network Breakdown Instructions.pdf	07-Feb-2015 00:52	127K	 
+[   ]	9.1.1.8 Packet Tracer - Troubleshooting Challenge - Documenting The Network.pka	07-Feb-2015 00:52	254K	 
+[   ]	9.1.1.8 Packet Tracer - Troubleshooting Challenge - Documenting The Network Instructions.pdf	07-Feb-2015 00:52	266K	 
+[   ]	9.2.3.12 Packet Tracer - Troubleshooting Enterprise Networks 1.pka	07-Feb-2015 00:52	224K	 
+[   ]	9.2.3.12 Packet Tracer - Troubleshooting Enterprise Networks 1 Instructions.pdf	07-Feb-2015 00:52	209K	 
+[   ]	9.2.3.13 Packet Tracer - Troubleshooting Enterprise Networks 2.pka	07-Feb-2015 00:52	212K	 
+[   ]	9.2.3.13 Packet Tracer - Troubleshooting Enterprise Networks 2 Instructions.pdf	07-Feb-2015 00:52	206K	 
+[   ]	9.2.3.14 Packet Tracer - Troubleshooting Enterprise Networks 3.pka	07-Feb-2015 00:52	222K	 
+[   ]	9.2.3.14 Packet Tracer - Troubleshooting Enterprise Networks 3 Instructions.pdf	07-Feb-2015 00:52	189K	 
+[   ]	9.2.3.15 Packet Tracer - Troubleshooting Challenge - Using Documentation to Solve Issues.pdf	07-Feb-2015 00:52	313K	 
+[   ]	9.2.3.15 Packet Tracer - Troubleshooting Challenge - Using Documentation to Solve Issues.pka	07-Feb-2015 00:52	254K	 
+[   ]	9.3.1.1 Documentation Development Instructions.pdf	07-Feb-2015 00:52	43K	 
+[   ]	9.3.1.2 Packet Tracer - CCNA Skills Integration Challenge.pka	07-Feb-2015 00:52	337K	 
+[   ]	9.3.1.2 Packet Tracer - CCNA Skills Integration Challenge Instructions.pdf	07-Feb-2015 
+
+}
+
+I Got This.. When I removed the url from This "http://cisco.num.edu.mn/CCNA_R&S3/course/files/3.3.2.7%20Packet%20Tracer%20-%20Configuring%20PAP%20and%20CHAP%20Authentication%20Instructions.pdf" To "http://cisco.num.edu.mn/CCNA_R&S3/course/files/" This.
+
+From There I Can Find and access all the datas... like the fetch datas from the network pannel in the inspection area...
+
+
+Result for { 
+      http://cisco.num.edu.mn/CCNA_R&S3/course/automation/
+
+      Index of /CCNA_R&S3/course/automation
+[ICO]	Name	Last modified	Size	Description
+[DIR]	Parent Directory	 	-	 
+[DIR]	com/	07-Feb-2015 00:
+}
+
+I have a big tip on pushing attack... First.. If your find vonerabilities like... A POST REQUEST / GET REQUEST from a particular URL, Copy The url and save... If The request is sending to login or sign up form data... Download Burp Suit. On your pc. to attempt loggin in to see the type of database eg sql, sql lite etc... After Sending your first attack with error... If the url is vonerable it will return an error of the sql pointing to where. Find a trick to break through the sql error and become the admin... The format is being determined by the Error Return.. for return like INSERT INTO usr (email, password) VALUES ('email', 'pass') use this 'OR 1=1' This tells the Insertion or selection that oh this is tha admin. Lets logg him in....
+

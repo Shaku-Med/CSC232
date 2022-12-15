@@ -1,0 +1,111 @@
+1. # What are the main difference between GET and POST request.
+
+ANS ={ 
+      the main difference b2 the get and post request is..
+
+      GET request is a one way traffic. It only goes in and fetch datas and it visually exposes the url and results.
+      
+      While as for the post request 
+
+      POST request Is a two way traffic ie, it sends data and receives response and it doesn't expose the url neither the responses.
+
+      ....
+
+      
+}
+
+2. # what are the main purpose of HTTP cookies...
+
+ANS ={ 
+
+      the main purpose of the http cookies is to store the logged in ID or other details of the logged in user.. and they can be used to get data of only that particular user...
+
+}
+
+3. # Explain how cookies can be used to track users..
+
+Ans => { 
+      How do cookies track? Tracking cookies work by storing a unique identifier in the form of a string of letters and numbers in the user web browser. When they are surfing the web, their web browser makes requests of websites' servers. In turn, user information about their device is sent to the website.
+}
+
+4. # Please explain why disabling third-part cookies can help prevent tracking
+
+Ans => { 
+      Blocking third-party cookies increases user privacy and security but has created a problem for consumer tracking/ad serving firms, which often place ads that follow users around the web. Combined with the removal of third-party cookies by other means, some firms estimate that 40% of all third-party cookies are removed
+}
+
+5. # Can JavaScript code access the user’s files? If not, how can we upload files to web
+servers?
+
+ANS => { 
+      No Javascript can't access the users files on it own, It needs help from HTML to do that... (HYPER TEXT MARKUP LANGUAGE) this is the only language that talks to the browser on what the user or code wants to do... 
+
+      Example code { 
+
+            <Doctype html>
+            <html>
+            <head></head>
+            <body>
+            <form action="" method="POSt" >
+            <input type="file" accept="image/*" id="getfile"/>
+            <img width="100%" src="">
+            </form>
+            <script>
+            let getfile = document.querySelector("#getfile")
+            let img = document.querySelector("img")
+
+            getfile.addEventListener('change', function(){ 
+
+                 let file = this.files[0]
+                 if(file){ 
+                  let reader = new FileReader()
+                  reader.onload = function(){ 
+                        let result = reader.result;
+                        img.src = result;
+                  }
+                  reader.readAsDataUrl(file);
+                 }
+
+                  }
+            })
+
+            </script>
+            </body>
+            </html>
+
+      }
+
+      //This code helps your preview the image before upload...
+}
+
+6. # Why Ajax and normal HTTP have different policy?
+
+Ans => { 
+      n AJAX request is identical to a "normal" browser request as far as the server is concerned other than potentially slightly different HTTP headers. e.g. chrome sends:
+
+      X-Requested-With:XMLHttpRequest
+}
+
+7. # Why is the same-origin policy required for Ajax request?
+
+Ans => { 
+      Same-Origin Policy. This is a security policy who defines the rules of how a web page can access an external resource (e.g. fonts, AJAX requests). Under the same-origin policy, web browsers do not permit a web page to access resources who origin differ than that of the current page.
+}
+
+8. # If web server A wants to allow a page from web server B to get its data via the Ajax
+request, who should set up the corresponding policy and what policy?
+
+Ans => { 
+      I didn't quite understand this. But I'm sure it's the Programmer programming the backend... Eg. He should create an api or http / https link that accept request...
+}
+
+9. # Please describe the cable haunt attack? If the server is not a WebSocket server, is the
+attack still possible?
+
+Ans1 => { 
+      Cable Haunt is a critical vulnerability found in cable modems from various manufacturers across the world. The vulnerability enables remote attackers to execute abitrary code on your modem, indirectly through an endpoint on the modem. Your cable modem is in charge of the internet traffic for all devices on the network. Cable Haunt might therefore be exploited to intercept private messages, redirect traffic, or participation in botnets
+}
+
+Ans 2 => { 
+      Yes.
+}
