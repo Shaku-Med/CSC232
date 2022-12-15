@@ -5,7 +5,7 @@
 
 # Introduction to HACKING AND REVEAL
 
-# QUESTIONS 
+# QUESTIONS LECTURES
 ....................................................................
 # 1. Hands-On Lab1 - Linux Security Basic
   ## Solution Link => https://docs.google.com/document/d/1grVDm9D1dQRXkpaCCr_bUIbBaLGwBFfFUWB95oVNNBs/edit?usp=sharing
